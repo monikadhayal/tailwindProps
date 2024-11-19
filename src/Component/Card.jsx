@@ -16,7 +16,7 @@ function Card({username,position,myObj}){
           <div class="pt-6 md:p-8 text-center md:text-left space-y-4">
             <blockquote>
               <p class="text-lg font-medium">
-                “Tailwind CSS is the only framework that I've seen scale on
+                “ monika nbddjiwehfusbsvn xcmvnuidshfuigknsdkjherougodnjzdffhr98fv Tailwind CSS is the only framework that I've seen scale on
                 large teams. Is easy to customize, adapts to any design, and the
                 build size is tiny.”
               </p>
